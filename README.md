@@ -1,4 +1,4 @@
-<![Status](https://img.shields.io/badge/Student-Software%20Engineering-red)
+<img src="https://img.shields.io/badge/Student-Software%20Engineering-red" width="300">
 
 Tengo 45 años y estoy comenzando mi camino en Ingeniería de Software,
 con enfoque en Inteligencia Artificial.
