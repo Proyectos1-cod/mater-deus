@@ -1,4 +1,4 @@
-<h2 style="color:red;">👋 Hola, soy María | Software Engineering Student</h2>
+<![Status](https://img.shields.io/badge/Student-Software%20Engineering-red)
 
 Tengo 45 años y estoy comenzando mi camino en Ingeniería de Software,
 con enfoque en Inteligencia Artificial.
